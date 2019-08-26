@@ -1,0 +1,62 @@
+---------------------------------------------------------------------------------------------------
+Version: 4.0.0
+Date: 2019.08.25
+  Bugfix:
+    - Fixed Change log :)
+  Optimisations:
+    - Code tidying and cleanup.
+---------------------------------------------------------------------------------------------------
+Version: 3.0.0
+Date: 2018.01.09
+    Transited mod to 0.16 version of Factorio
+    Edited item prototype to include 'icon_size' property
+---------------------------------------------------------------------------------------------------
+Version: 2.2.0
+Date: 2018.01.09
+  Locale:
+    - Japanese and Korean languages are added
+    Mod description translate and mod name in Russian locale added
+---------------------------------------------------------------------------------------------------
+Version: 2.1.2
+Date: 2017.10.03
+    Inaccessible 'player.character' bug fix mentioned by Comwarrior
+---------------------------------------------------------------------------------------------------
+Version: 2.1.1
+Date: 2017.07.03
+    No character while in free game (or in some other mode) bug fix
+---------------------------------------------------------------------------------------------------
+Version: 2.1.0
+Date: 2017.07.03
+    Major code refactoring and small description update
+    Changed modifiers re-enabling by using only one method that checks and enables/disables modifiers for current player
+    Added comments to new methods
+    This refactor solves a lot of possible logic and other bugs
+---------------------------------------------------------------------------------------------------
+Version: 2.0.0
+Date: 2017.06.17
+    Updates in technology and recipe to suit new 0.15 Factorio API
+    Comments for all methods using LuaDoc methodology
+    Removed spaces in locale file for new parser
+    Simplified code and method usages
+    New logic in on_config_changed event handler
+---------------------------------------------------------------------------------------------------
+Version: 1.1.1
+Date: 2017.02.17
+    Added information about quickbar increasement in description
+---------------------------------------------------------------------------------------------------
+Version: 1.1.0
+Date: 2017.02.06
+    Balancing of Exoskeleton Mark II usage - it will now require 650kW
+    Updated technology descriptions
+  Locale:
+    - Added russian translation and descriptions
+    Fixed bug mentioned by Philip017
+---------------------------------------------------------------------------------------------------
+Version: 1.0.1
+Date: 2017.01.09
+    Fixed mod description and technology description
+---------------------------------------------------------------------------------------------------
+Version: 1.0.0
+Date: 2017.01.09
+  Info:
+    - Initial release
